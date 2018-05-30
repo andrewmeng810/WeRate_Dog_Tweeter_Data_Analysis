@@ -1,6 +1,5 @@
 # WeRate_Dog_Twitter_Data_Analysis
 
-
 Wrangle report
 
 WeRateDogs is a famous twitter account that rate dogs and create humorous comments.
