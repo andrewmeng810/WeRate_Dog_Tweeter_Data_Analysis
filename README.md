@@ -11,6 +11,7 @@ c.	Cleaning
 
 
 Gathering
+
 In this project, we used datasets from three data resources. 
 tweet archive: a local csv file
 tweet_image: query from website via file url link
