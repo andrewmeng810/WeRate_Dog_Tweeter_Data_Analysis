@@ -12,8 +12,9 @@ c.	Cleaning
 Gathering
 
 In this project, we used datasets from three data resources. 
-tweet archive: a local csv file
-tweet_image: query from website via file url link
-twet_df: retrieved via the twitter API connection. 
+
+a. tweet archive: a local csv file
+b. tweet_image: query from website via file url link
+c. twet_df: retrieved via the twitter API connection. 
 
 
